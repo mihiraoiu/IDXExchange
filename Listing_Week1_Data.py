@@ -32,12 +32,12 @@ listing202512 = pd.read_csv(file_path + "CRMLSListing202512.csv", encoding = "IS
 
 
 listing202601 = pd.read_csv(file_path + "CRMLSListing202601.csv", encoding = "ISO-8859-1")
-listing202502 = pd.read_csv(file_path + "CRMLSListing202602.csv", encoding = "ISO-8859-1")
-listing202503 = pd.read_csv(file_path + "CRMLSListing202603.csv", encoding = "ISO-8859-1")
-listing202504 = pd.read_csv(file_path + "CRMLSListing202604.csv", encoding = "ISO-8859-1")
+listing202602 = pd.read_csv(file_path + "CRMLSListing202602.csv", encoding = "ISO-8859-1")
+listing202603 = pd.read_csv(file_path + "CRMLSListing202603.csv", encoding = "ISO-8859-1")
+listing202604 = pd.read_csv(file_path + "CRMLSListing202604.csv", encoding = "ISO-8859-1")
 
 
-listinglist = [listing202401, listing202402, listing202403, listing202404, listing202405, listing202405, listing202406, listing202407, listing202408, listing202409, listing202410, listing202411,  listing202412,  listing202501, listing202502, listing202503, listing202504, listing202505, listing202506, listing202507, listing202508,listing202509, listing202510, listing202511, listing202512, listing202601, listing202502, listing202503, listing202504]
+listinglist = [listing202401, listing202402, listing202403, listing202404, listing202405, listing202405, listing202406, listing202407, listing202408, listing202409, listing202410, listing202411,  listing202412,  listing202501, listing202502, listing202503, listing202504, listing202505, listing202506, listing202507, listing202508,listing202509, listing202510, listing202511, listing202512, listing202601, listing202602, listing202603, listing202604]
 
 #Row count confirmation
 
