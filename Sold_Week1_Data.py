@@ -32,12 +32,12 @@ sold202512 = pd.read_csv(file_path + "CRMLSSold202512.csv", encoding = "ISO-8859
 
 
 sold202601 = pd.read_csv(file_path + "CRMLSSold202601.csv", encoding = "ISO-8859-1")
-sold202502 = pd.read_csv(file_path + "CRMLSSold202602.csv", encoding = "ISO-8859-1")
-sold202503 = pd.read_csv(file_path + "CRMLSSold202603.csv", encoding = "ISO-8859-1")
-sold202504 = pd.read_csv(file_path + "CRMLSSold202604.csv", encoding = "ISO-8859-1")
+sold202602 = pd.read_csv(file_path + "CRMLSSold202602.csv", encoding = "ISO-8859-1")
+sold202603 = pd.read_csv(file_path + "CRMLSSold202603.csv", encoding = "ISO-8859-1")
+sold202604 = pd.read_csv(file_path + "CRMLSSold202604.csv", encoding = "ISO-8859-1")
 
 
-soldlist = [sold202401, sold202402, sold202403, sold202404, sold202405, sold202405, sold202406, sold202407, sold202408, sold202409, sold202410, sold202411,  sold202412,  sold202501, sold202502, sold202503, sold202504, sold202505, sold202506, sold202507, sold202508,sold202509, sold202510, sold202511, sold202512, sold202601, sold202502, sold202503, sold202504]
+soldlist = [sold202401, sold202402, sold202403, sold202404, sold202405, sold202405, sold202406, sold202407, sold202408, sold202409, sold202410, sold202411,  sold202412,  sold202501, sold202502, sold202503, sold202504, sold202505, sold202506, sold202507, sold202508,sold202509, sold202510, sold202511, sold202512, sold202601, sold202602, sold202603, sold202604]
 
 #Row count confirmation
 
